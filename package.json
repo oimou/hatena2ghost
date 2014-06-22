@@ -1,0 +1,25 @@
+{
+  "name": "hatena2ghost",
+  "version": "0.0.1",
+  "description": "",
+  "main": "hatena2ghost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oimou/hatena2ghost.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oimou/hatena2ghost/issues"
+  },
+  "homepage": "https://github.com/oimou/hatena2ghost",
+  "dependencies": {
+    "event-stream": "^3.1.5",
+    "node-getopt": "^0.2.3",
+    "promise": "^5.0.0",
+    "stdin": "0.0.1"
+  }
+}
