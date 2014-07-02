@@ -17,9 +17,17 @@
   },
   "homepage": "https://github.com/oimou/hatena2ghost",
   "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
     "event-stream": "^3.1.5",
+    "markdown-js": "0.0.3",
+    "mecab": "git://github.com/simedw/mecab.js",
+    "moment": "^2.7.0",
     "node-getopt": "^0.2.3",
     "promise": "^5.0.0",
-    "stdin": "0.0.1"
+    "slug": "^0.5.0",
+    "stdin": "0.0.1",
+    "underscore": "^1.6.0",
+    "uuid": "^1.4.1"
   }
 }
